@@ -4,8 +4,6 @@ This project shows how I deployed a WordPress website for PayRoyal using Docker 
 
 ---
 
-## 🖼️ Screenshots
-
 **1. AWS Virtual Machine Creation**
 ![VM](images/PayroyalVM.png)
 
